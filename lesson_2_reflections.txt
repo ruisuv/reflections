@@ -3,3 +3,5 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	Since the staging area is only a part from the working directory, it offers the relevantsfiles and changes that would be included at the next commit
+How can you use the staging area to make sure you have one commit per logical change?
+	The staged area show every change made to the last commit. If I want have only one logical change I can see the staged area and add or remove and then commit it
