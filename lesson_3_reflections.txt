@@ -8,3 +8,5 @@ Describe the differences between forks, clones, and branches. When would you use
 	And branches is a part from a commit history that saves some specific commit from one repository
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	You could compare the changes and resolve merge conflict when it appears.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	It could be using another technology like Google Docs or Dropbox. But that way is REALLY hard.
