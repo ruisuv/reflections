@@ -10,3 +10,5 @@ What is the benefit of having a copy of the last known state of the remote store
 	You could compare the changes and resolve merge conflict when it appears.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	It could be using another technology like Google Docs or Dropbox. But that way is REALLY hard.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	When you are working in a team there are files that you do not want anybody changes it because they are important pieces of code for example. Create a new branch could be a safe way to keep your original files and after you check the changes merge it to the master branch.
